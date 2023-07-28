@@ -38,19 +38,15 @@
       Before getting started, make sure you have the following installed:
     </p>
     <ul>
-      <li>Blender (Version 3.6)</li>
-      <li>Metaverse Development Kit (MDK) </li>
-      <li>VR Headset (Oculus Rift, HTC Vive, etc.)</li>
+       <li>Blender (Version 3.6)</li>
+       <li>Metaverse Development Kit (MDK) </li>
+       <li>VR Headset (Oculus Rift, HTC Vive, etc.)</li>
     </ul>
-
     <h3>Setup</h3>
     <ol>
-      <li>Clone the repository:</li>
-      <pre><code>git clone https://github.com/your_username/digital-circuit-lab.git</code></pre>
-      <li>Open Blender and load the project file <code>digital-circuit-lab.blend</code>.</li>
-      <li>Install the Metaverse Development Kit (MDK) add-on for Blender (if not already installed).</li>
-      <li>Set up your VR headset and ensure it is properly connected to your computer.</li>
-      <li>Enable the VR mode in Blender to enter the virtual circuit lab.</li>
+       <li>Open Blender and load the project file <code>ohm's_law_verification.blend</code>.</li>
+       <li>Set up your VR headset and ensure it is properly connected to your computer.</li>
+       <li>Enable the VR mode in Blender to enter the virtual circuit lab.</li>
     </ol>
   </section>
 
@@ -73,19 +69,9 @@
     </ul>
   </section>
 
-  <section id="contribution-guidelines">
-    <h2>Contribution Guidelines</h2>
-    <p>
-      We welcome contributions to improve the project. If you would like to contribute, please follow the guidelines outlined in <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>.
-    </p>
-  </section>
+  
 
-  <section id="license">
-    <h2>License</h2>
-    <p>
-      This project is licensed under the <a href="LICENSE">MIT License</a>.
-    </p>
-  </section>
+  
 
   <section id="acknowledgments">
     <h2>Acknowledgments</h2>
